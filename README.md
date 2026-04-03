@@ -1,6 +1,6 @@
 ## Overview
 
-Code for Dundon & Rizor et al., Detecting recent concussion with multidimensional diffusion imaging: enhanced sensitivity over fractional anisotropy (2025). 
+Code for Rizor et al., Detecting recent concussion with multidimensional diffusion imaging: enhanced sensitivity over fractional anisotropy (2025). 
 
 ## Raw Data Repository
 
